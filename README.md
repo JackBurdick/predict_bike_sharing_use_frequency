@@ -1,7 +1,7 @@
 [//]: # (Image References)
 [image_overview]: ./misc/predict_bikeSharing_overview.png
 
-# English to French Recurrent Neural Network
+# Predict Bike Sharing Frequency with Artificial Neural Network
 Artificial Neural Network (ANN) trained from scratch to translate predict bike share use.
 ![Overview of data, neural network, and output][image_overview]
 
